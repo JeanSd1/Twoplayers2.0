@@ -1,0 +1,7 @@
+services:
+  - type: web
+    name: twoplayers2
+    runtime: static
+    rootDir: .
+    buildCommand: ""
+    staticPublishPath: ./
